@@ -1,0 +1,5 @@
+101,Van,BSIT,79
+102,Halen,BSCS,82
+103,Jardiolen,BSIT,95
+104,Janao,BSCS,85
+105,Assignment2,BSIT,91
